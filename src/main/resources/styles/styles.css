@@ -14,5 +14,14 @@
  * limitations under the License.
  */
 
-rootProject.name = 'FXSample'
+.button {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-font-family: monospace;
+    -fx-text-fill: #333333;
+    -fx-effect: dropshadow(gaussian, rgba(255, 255, 255, 0.5), 0, 0, 0, 1);
+}
 
+.button:hover {
+    -fx-background-color: #B2DFDB;
+}
