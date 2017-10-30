@@ -10,7 +10,7 @@ JavaFX template on steroids.
 
 ### Supports
 
-* gradle plugin (kudos to [FibreFox](https://github.com/FibreFoX))
+* gradle plugin (kudos to [FibreFox](https://github.com/FibreFoX/javafx-gradle-plugin))
 * JavaFX Material Design Library (kudos to [jfoenixadmin](https://github.com/jfoenixadmin/JFoenix))
 * Controller / Non-Controller config.
 * Resource bundles (translation)

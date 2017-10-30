@@ -39,8 +39,7 @@ dependencies {
     testCompile group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.8.0-alpha2'
 
     // https://mvnrepository.com/artifact/com.jfoenix/jfoenix
-    compile group: 'com.jfoenix', name: 'jfoenix', version: '1.7.0'
-
+    compile 'com.jfoenix:jfoenix:1.9.1'
     // https://mvnrepository.com/artifact/mysql/mysql-connector-java
     compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.40'
 
